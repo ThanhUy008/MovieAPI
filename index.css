@@ -1,0 +1,11 @@
+body{
+    width: 100%;
+    margin: 0;
+}
+.card-deck .card {
+    max-width: calc(25% - 30px);
+}
+
+.main{
+    display: flex;
+}
